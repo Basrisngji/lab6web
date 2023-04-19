@@ -14,10 +14,10 @@
 4.File index.php berisi proses routing aplikasi dan dikombinasikan dengan penggunaan mod_rewrite pada file .htaccess<p>
 
 ## Ini Output Home
-![Gambar 1](screenshoot/1.jpeg
+![Gambar 1](screenshoot/1.jpeg)
 ## Ini Output Tambah Data
-![Gambar 2](screenshoot/2.png
+![Gambar 2](screenshoot/2.png)
 ## Ini Output Edit
-![Gambar 3](screenshoot/3.png
+![Gambar 3](screenshoot/3.png)
 
 ## Terimakasih
